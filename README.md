@@ -13,7 +13,7 @@
 
 开源多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 
-**在线体验: [https://muse-ai.nlink.vip/](https://muse-ai.nlink.vip/)**
+**在线体验: [https://xiaoye.io/](https://xiaoye.io/)**
 
 [中文](#功能特性) | [English](README_EN.md)
 
